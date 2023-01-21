@@ -1,0 +1,20 @@
+(footprint "LED_Diffuser" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (descr "LED diffuser trace. Not an active footprint, just makes holes in the PCB that let some light through.")
+  (attr smd board_only)
+  (fp_text reference "REF**" (at 0 -2.38125 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a6fe3165-99b1-4e6d-bf6c-93869719ef29)
+  )
+  (fp_text value "LED_Diffuser" (at 0 2.38125 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a36b0092-1c1d-4709-b9c5-55074ea3e38d)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -2.38125 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9bce81e8-0c01-41c0-aa38-8829f2a2125d)
+  )
+  (fp_rect (start -1.6 -1.6) (end 1.6 1.6) (layer "B.Mask") (width 0.12) (fill solid) (tstamp e14eaf67-ba73-4b2c-9062-3426c3be6ff8))
+  (fp_rect (start -1.6 -1.6) (end 1.6 1.6) (layer "F.Mask") (width 0.12) (fill solid) (tstamp 98d14c9b-cdd4-4047-9ea8-764c406de8dd))
+)

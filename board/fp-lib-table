@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pix6t4_export")(type "KiCad")(uri "$(KIPRJMOD)/pix6t4_export.pretty")(options "")(descr ""))
+)
