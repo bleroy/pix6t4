@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.10)"
     },
-    "CreationDate": "2023-01-20T23:09:19-08:00"
+    "CreationDate": "2023-02-01T20:58:40-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "pico8t",
-      "GUID": "7069636f-3874-42e6-9b69-6361645f7063",
+      "Name": "pico8t-matrix",
+      "GUID": "7069636f-3874-42d6-9d61-747269782e6b",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "pico8t-F_Cu.gbr",
+      "Path": "pico8t-matrix-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-B_Cu.gbr",
+      "Path": "pico8t-matrix-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-F_Paste.gbr",
+      "Path": "pico8t-matrix-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-B_Paste.gbr",
+      "Path": "pico8t-matrix-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-F_Silkscreen.gbr",
+      "Path": "pico8t-matrix-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-B_Silkscreen.gbr",
+      "Path": "pico8t-matrix-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pico8t-F_Mask.gbr",
+      "Path": "pico8t-matrix-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "pico8t-B_Mask.gbr",
+      "Path": "pico8t-matrix-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "pico8t-Edge_Cuts.gbr",
+      "Path": "pico8t-matrix-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
