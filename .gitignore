@@ -1,3 +1,8 @@
 ﻿board/pix6t4_export-backups
 board/pix6t4-backups
 PICO8T/pico8t-backups
+*.bak
+PICO8T/pico8t-diffuser-backups
+PICO8T/_autosave-*
+PICO8T/pico8t-matrix-backups
+PICO8T/fp-info-cache
